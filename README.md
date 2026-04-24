@@ -135,6 +135,13 @@ Users can share posts, upload reels, stories, and interact with others in real-t
 </p>
 
 ---
+
+## ⚙️ Installation
+
+git clone https://github.com/AshishVerma042/Digi-Vibe-social-app.git
+cd Digi-Vibe-social-app
+flutter pub get
+flutter run
 ---
 
 ## 💡 Future Improvements
@@ -172,12 +179,6 @@ It motivates me to build more amazing apps 🚀
 
 ---
 
-## ⚙️ Installation
 
-```bash
-git clone https://github.com/AshishVerma042/Digi-Vibe-social-app.git
-cd Digi-Vibe-social-app
-flutter pub get
-flutter run
 
 
