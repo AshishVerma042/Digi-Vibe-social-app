@@ -68,7 +68,7 @@ Users can share posts, upload reels, stories, and interact with others in real-t
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="App Screenshots/Logo.jpeg" width="120"/>
+  <img src="App Screenshots/Logo.png" width="120"/>
 </p>
 
 <h1 align="center">📱 Digi Vibe</h1>
