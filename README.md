@@ -136,13 +136,6 @@ Users can share posts, upload reels, stories, and interact with others in real-t
 
 ---
 
-### 🧩 App Branding
-<p align="center">
-  <img src="App Screenshots/Logo.jpeg" width="200"/>
-</p>
-
----
-
 ## ⚙️ Installation
 
 ```bash
