@@ -135,6 +135,42 @@ Users can share posts, upload reels, stories, and interact with others in real-t
 </p>
 
 ---
+---
+
+## 💡 Future Improvements
+- 🔔 Push Notifications  
+- 🎥 Live Streaming  
+- 🧠 Smart AI Recommendations  
+- 🌐 Backend Optimization  
+- 🔐 Better Security & Encryption  
+
+---
+
+## 🤝 Contribution
+Contributions are welcome!  
+
+1. Fork the repository  
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)  
+3. Commit your changes (`git commit -m 'Add some feature'`)  
+4. Push to the branch (`git push origin feature/AmazingFeature`)  
+5. Open a Pull Request  
+
+---
+
+## ⭐ Support
+If you like this project, please give it a ⭐ on GitHub!  
+It motivates me to build more amazing apps 🚀  
+
+---
+
+## 👨‍💻 Developer
+**Aashish Verma**  
+
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: your-linkedin-profile  
+- 🐙 GitHub: https://github.com/AshishVerma042
+
+---
 
 ## ⚙️ Installation
 
@@ -143,3 +179,5 @@ git clone https://github.com/AshishVerma042/Digi-Vibe-social-app.git
 cd Digi-Vibe-social-app
 flutter pub get
 flutter run
+
+
