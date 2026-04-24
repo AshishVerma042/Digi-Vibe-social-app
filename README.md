@@ -1,16 +1,95 @@
-# instagram_clone
+📱 Digi Vibe - Social Media App (Instagram Clone)
 
-A new Flutter project.
+A full-featured social media application built using Flutter, inspired by Instagram.
+Users can share posts, upload reels, stories, and interact with others in real-time — including chatting with an AI friend.
 
-## Getting Started
+🚀 Features
+👤 Authentication
+🔐 Login / Signup
+🚪 Logout
+👤 Profile Management
+🖼️ Profile Picture Upload
+📸 Posts & Engagement
+🖼️ Upload Photos
+❤️ Like & Comment on Posts
+📄 Captions & Feed System
+💬 Message System on Posts
+🎥 Reels
+🎬 Upload Reels (Short Videos)
+📱 Scrollable Reels Feed
+❤️ Like, Comment & Share
+🔎 Search / Trending Reels
+📖 Stories
+📸 Upload Stories
+👀 View Stories
+⏱️ Auto-disappearing Content
+➕ Multiple Story Upload
+💬 Chat System
+💬 User-to-User Messaging
+🤖 AI Friend Chat Integration
+⚡ Smooth Chat UI
+🔔 Notifications
+🔔 Real-time Notifications
+❤️ Activity Updates
+⚙️ Settings
+⚙️ App Settings Screen
+👤 Profile Controls
+🎨 UI/UX Highlights
+✨ Clean & Modern UI
+📱 Fully Responsive Design
+⚡ Smooth Animations
+🔥 Instagram-like Experience
+🛠️ Tech Stack
+Flutter
+Dart
+Firebase Authentication
+Cloud Firestore
+Firebase Storage
+REST APIs
+AI Integration (Chat Feature)
+📸 Screenshots
+🤖 AI Chat & Messaging
+<p align="center"> <img src="App Screenshots/Ai Friend Chat 1.1.jpeg" width="200"/> <img src="App Screenshots/Ai Friend Chat 1.2.jpeg" width="200"/> <img src="App Screenshots/Chat Management.jpeg" width="200"/> <img src="App Screenshots/Message System On Post.jpeg" width="200"/> </p>
+🏠 Home & Navigation
+<p align="center"> <img src="App Screenshots/HOME Screen.jpeg" width="200"/> <img src="App Screenshots/Notifications.jpeg" width="200"/> <img src="App Screenshots/Settings.jpeg" width="200"/> </p>
+🔐 Authentication
+<p align="center"> <img src="App Screenshots/Login Screen.jpeg" width="200"/> <img src="App Screenshots/SignUp Screen.jpeg" width="200"/> </p>
+📸 Posts & Engagement
+<p align="center"> <img src="App Screenshots/Posts Upload Screen.jpeg" width="200"/> <img src="App Screenshots/Post Likes.jpeg" width="200"/> </p>
+👤 Profile & Posts
+<p align="center"> <img src="App Screenshots/Profile & Posts 1.1.jpeg" width="200"/> <img src="App Screenshots/Profile & Posts 1.2.jpeg" width="200"/> </p>
+🎥 Reels Section
+<p align="center"> <img src="App Screenshots/Reels Scrol Screen.jpeg" width="200"/> <img src="App Screenshots/Search or Trending reels.jpeg" width="200"/> </p>
+📖 Stories
+<p align="center"> <img src="App Screenshots/Upload Storys Screen.jpeg" width="200"/> <img src="App Screenshots/Uploaded Story 1.1.jpeg" width="200"/> <img src="App Screenshots/Uploaded Story 1.2.jpeg" width="200"/> </p>
+🧩 App Branding
+<p align="center"> <img src="App Screenshots/Logo.jpeg" width="200"/> </p>
+⚙️ Installation
+git clone https://github.com/AshishVerma042/Digi-Vibe-social-app.git
+cd Digi-Vibe-social-app
+flutter pub get
+flutter run
+🔐 Environment Setup
 
-This project is a starting point for a Flutter application.
+Create a .env file in root:
 
-A few resources to get you started if this is your first Flutter project:
+OPENAI_API_KEY=your_api_key_here
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+⚠️ Never upload .env file to GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💡 Future Improvements
+🔔 Push Notifications
+🎥 Live Streaming
+🧠 Smart AI Recommendations
+🌐 Backend Optimization
+🤝 Contribution
+
+Feel free to fork this repo and contribute!
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+👨‍💻 Developer
+
+Aashish Verma
